@@ -42,7 +42,7 @@ Clean and prepare raw Amazon sales data for analysis.
 
 ### Repository
 
-[Task 1 Repository]([PASTE_TASK1_LINK](https://github.com/vanithaP26/Task1-Data-Wrangling))
+[[Task 1 Repository](https://github.com/vanithaP26/Task1-Data-Wrangling)]
 
 ---
 
