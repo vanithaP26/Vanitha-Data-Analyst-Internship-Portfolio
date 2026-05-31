@@ -42,7 +42,7 @@ Clean and prepare raw Amazon sales data for analysis.
 
 ### Repository
 
-[[Task 1 Repository](https://github.com/vanithaP26/Task1-Data-Wrangling)]
+[Task 1 Repository](https://github.com/vanithaP26/Task1-Data-Wrangling)
 
 ---
 
@@ -61,7 +61,7 @@ Analyze sales trends, customer behavior, and business performance.
 
 ### Repository
 
-[Task 2 Repository](PASTE_TASK2_LINK)
+[Task 2 Repository](https://github.com/vanithaP26/Task2-EDA-ECommerce-Analysis)
 
 ---
 
@@ -80,7 +80,7 @@ Develop interactive Power BI dashboards for business insights.
 
 ### Repository
 
-[Task 3 Repository](PASTE_TASK3_LINK)
+[Task 3 Repository](https://github.com/vanithaP26/task-3-interactive-dashboard)
 
 ---
 
@@ -99,7 +99,7 @@ Perform hypothesis testing and statistical validation.
 
 ### Repository
 
-[Task 4 Repository](PASTE_TASK4_LINK)
+[Task 4 Repository]((https://github.com/vanithaP26/Task4-Data-Storytelling))
 
 ---
 
